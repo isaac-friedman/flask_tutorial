@@ -28,3 +28,7 @@ pip-delete-this-directory.txt
 .cache
 nosetests.xml
 coverage.xml
+
+#databases
+migrations/
+app.db
